@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋 nice to meet you. My name is Giuseppe.👨🏼‍💻
+
+I'm a 📱 Mobile 💻 Web & 🖥 Desktop Developer.
+
+Have fun on GitHub! 😄
 
 <!--
 **Valitutto/Valitutto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
