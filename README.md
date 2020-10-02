@@ -1,6 +1,8 @@
-# Hi there 👋 nice to meet you. My name is Giuseppe.👨🏼‍💻
+# Hi there 👋🏼 nice to meet you. My name is Giuseppe.👨🏻‍💻
 
-I'm a 📱 Mobile 💻 Web & 🖥 Desktop Developer.
+I'm a 📱 Mobile 💻 Web & 🖥 Desktop Developer from 🇮🇹 Italy.
+
+[valitutto.github.io](https://valitutto.github.io/)
 
 Have fun on GitHub! 😄
 
