@@ -1,10 +1,18 @@
-# Hi there 👋🏼 nice to meet you. My name is Giuseppe.👨🏻‍💻
+## Welcome
 
 I'm a 📱 Mobile 💻 Web & 🖥 Desktop Developer from 🇮🇹 Italy.
 
-[valitutto.github.io](https://valitutto.github.io/)
+[valitutto.github.io](https://valitutto.github.io/) | [LinkedIn](https://www.linkedin.com/in/giuseppe-valitutto-07/)
 
-Have fun on GitHub! 😄
+### Skill
+- PHP
+- Laravel
+- Android
+- iOS
+- Flutter
+- VueJS
+- SQL
+- Java
 
 <!--
 **Valitutto/Valitutto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
